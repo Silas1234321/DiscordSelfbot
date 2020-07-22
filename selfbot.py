@@ -40,7 +40,7 @@ ______ _                       _   _   _ _   _ _
 {Color.GREEN}Client has successfully logged in as {Color.WHITE}{client.user.name}#{client.user.discriminator}{Color.GREEN}!
 {Color.GREEN}Your discord ID is {Color.WHITE}{client.user.id}
 
-{Color.WHITE}Run {Color.ORANGE}'{prefix}help' {Color.WHITE}in anny channel on discord to get started!
+{Color.WHITE}Run {Color.ORANGE}'{prefix}help' {Color.WHITE}in any channel on discord to get started!
 """)
   
   async def on_message(self, message):
