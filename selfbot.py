@@ -35,6 +35,7 @@ ______ _                       _   _   _ _   _ _
                    -rewritten-
 {Color.LIGHTBLACK_EX}
                  Made by Chaotic
+  https://github.com/Chatic-Gaming/DiscordSelfbot
                   
 
 {Color.GREEN}Client has successfully logged in as {Color.WHITE}{client.user.name}#{client.user.discriminator}{Color.GREEN}!
@@ -114,6 +115,8 @@ async def help(message):
   emHelp = discord.Embed(
     title = "DiscordUtils - Help",
     description = f"""
+Made by Chaotic
+https://github.com/Chatic-Gaming/DiscordSelfbot
 **__CHAT COMMANDS__**
 ```
 {prefix}help
